@@ -11,7 +11,7 @@ This project implements a **portable 4–20 mA current generator** using an Ar
 - Display of **setpoint** and **measured current** via 2x16 LCD
 - Arduino Uno–controlled signal processing and display
 - PWM + low-pass filter as DAC substitute
-- **Voltage doubler circuit** to supply analog driver circuits (up to 18 V)
+- **Voltage doubler circuit** to supply analog driver circuits (18 V)
 - Compact hand-held device that is battery-powered (9V)
 
 ---
